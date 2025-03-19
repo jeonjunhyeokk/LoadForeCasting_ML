@@ -5,7 +5,6 @@
 
 ### 참고 문헌 https://www.mdpi.com/2078-2489/12/2/50
 
-<img width="1213" alt="스크린샷 2025-03-18 오후 11 19 23" src="https://github.com/user-attachments/assets/5ac93ef2-db34-45dd-8b73-9172bf9da3b3" />
 
 <br>
 
