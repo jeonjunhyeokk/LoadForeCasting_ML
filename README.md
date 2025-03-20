@@ -10,6 +10,7 @@
 
 ### 1. 데이터셋
 <img width="1209" alt="Image" src="https://github.com/user-attachments/assets/0ccf6b8d-a076-4edb-b315-715e663e8d2c" />
+
 #### https://www.kaggle.com/datasets/ernestojaguilar/shortterm-electricity-load-forecasting-panama/code
 <br>
 
